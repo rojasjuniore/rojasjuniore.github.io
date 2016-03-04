@@ -6,7 +6,6 @@ categories: Junior
 ---
 
 
-## Soñador de Tiempo Completo.
 ![soñador]({{ site.baseurl }}/images/sonador.jpg)
 
 
