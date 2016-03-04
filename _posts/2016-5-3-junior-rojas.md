@@ -2,7 +2,7 @@
 layout: post
 title: De que se trata este blog?
 ---
-![un gatito]({{ site.baseurl }}/images/sonador.jpg)
+![soñador]({{ site.baseurl }}/images/sonador.jpg)
 
 
 En este blog hablaremos full de programacio, tecnologia nueva, actualizacion y cualquier otro articulo que me parezca interesante
