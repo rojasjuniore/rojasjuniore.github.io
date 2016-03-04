@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Soy un programador junior, que quiere hacer grandes cosas,. me considero una persona super positiva soy de eso que dicen que todo tiene solucion y siempre una mente positiva.
+Soy un programador que quiere hacer grandes cosas. 
+Me considero una persona súper positiva, Soy de eso que dicen que todo tiene solución y siempre con una mente positiva.
+
 
 ### Mas Informacion
 
