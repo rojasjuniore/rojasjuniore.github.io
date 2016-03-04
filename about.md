@@ -6,7 +6,7 @@ permalink: /about/
 
 Soy un programador junior, que quiere hacer grandes cosas,. me considero una persona super positiva soy de eso que dicen que todo tiene solucion y siempre una mente positiva.
 
-### More Information
+### Mas Informacion
 
 Sigueme en todas mi redes sociales como 'rojasjuniore' 
 
