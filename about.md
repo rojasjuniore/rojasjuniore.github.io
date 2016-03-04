@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Soy un programador junior, que quiere hacer grandes cosas,. me considero una persona super positiva soy de eso que dicen que todo tiene solucion y siempre una mente positiva.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Sigueme en todas mi redes sociales como 'rojasjuniore' 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rojasjuniore@gmail.com](mailto:rojasjuniore@gmail.com)
