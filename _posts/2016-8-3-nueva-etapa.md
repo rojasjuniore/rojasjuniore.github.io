@@ -13,7 +13,7 @@ Porque sentí que ya mi etapa en esa empresa había culminado, bueno Para serles
 (((Crear, diseñar y  ser útil)))
 
 
-![android]({{ site.baseurl }}/images/android1.jpg)
+![android1]({{ site.baseurl }}/images/android1.jpg)
 
 
 Pero obviemos ese tema y le comento que ando muy feliz conseguí una buena startup en caracas llamada [pedidostogo.com](http://pedidostogo.com/default.aspx) que me dará la oportunidad de crear varios sistemas que incluye  una renovación a la página web, una app Android y una app IOS que tal..? El sueño de cualquier programador novato que quiere explotar su creatividad al 1000%
