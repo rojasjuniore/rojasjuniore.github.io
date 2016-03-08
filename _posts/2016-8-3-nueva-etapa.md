@@ -21,6 +21,4 @@ Les confieso que ando nervioso o ansioso todavía no logro definir cuál de los 
 
 El lunes 14 de marzo comienza mi aventura! Le estaré comentando que tal me va por mi redes sociales  
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=y6Sxv-sUYtM
-" target="_blank"><img src="http://img.youtube.com/vi/y6Sxv-sUYtM/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="400" height="400" border="10" /></a>
+
