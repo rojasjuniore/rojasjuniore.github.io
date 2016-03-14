@@ -1,6 +1,6 @@
 ---
 layout: post  
-title:  "Nueva etapa."  
+title:  "Android allá vamos"  
 date:   2016-03-08 12:35:01 -0600  
 categories: Android
 ---
