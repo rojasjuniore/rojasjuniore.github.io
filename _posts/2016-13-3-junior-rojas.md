@@ -17,7 +17,7 @@ Porque sentí que ya mi etapa en esa empresa había culminado, bueno Para serles
 
 
 Pero obviemos ese tema y le comento que ando muy feliz conseguí una buena startup en caracas llamada [pedidostogo.com](http://pedidostogo.com/default.aspx) que me dará la oportunidad de crear varios sistemas que incluye  una renovación a la página web, una app Android y una app IOS que tal..? El sueño de cualquier programador novato que quiere explotar su creatividad al 1000%
-Les confieso que ando nervioso o ansioso todavía no logro definir cuál de los dos sentimientos es..?   pero lo que si se es que voy con full ganas de hacer algo productivo y poder reforzar mi conocimientos en el área y terminar de establecerme en el mundo tecnológico en Venezuela.
+Les confieso que ando nervioso o ansioso todavía no logro definir cuál de los dos sentimientos es..?   pero lo que si se es que voy con full ganas de hacer algo productivo y poder reforzar mi conocimientos en el área y terminar de establecerme en el mundo tecnológico de Venezuela.
 
 El lunes 14 de marzo comienza mi aventura! Le estaré comentando que tal me va por mi redes sociales  
 
