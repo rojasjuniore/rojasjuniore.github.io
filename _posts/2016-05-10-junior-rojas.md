@@ -2,7 +2,9 @@
 ---
 layout: post  
 title:  "No puedes tener una vida positiva y una mente negativa."  
+date:   2016-05-10
 categories: Android
+
 ---
 
 ![android]({{ site.baseurl }}/images/ android-love.png)
